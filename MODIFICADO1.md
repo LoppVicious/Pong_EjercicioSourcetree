@@ -1,5 +1,5 @@
 <<<<<<< HEAD:MODIFICADO1.md
-Modifica este texto
+
 =======
 
        / `'=) (='` \
